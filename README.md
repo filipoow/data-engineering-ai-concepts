@@ -58,53 +58,10 @@ data-engineering-concepts/
 └── README.md
 ```
 
-Cada conceito tem seu próprio `.md` seguindo o mesmo formato:
-
-```
-## O que é
-## Como funciona internamente
-## Quando usar — e quando não usar
-## Conexão com outros conceitos
-## Exemplo concreto
-## Referências
-```
-
----
-
-## 🧱 Stack de referência
-
-Os exemplos e anotações ao longo do repositório vão refletir o ambiente que trabalho no dia a dia:
-
-| Tecnologia | Papel |
-|------------|-------|
-| **Databricks** | Processamento, Delta Lake, Genie/AI BI |
-| **PySpark** | Transformações distribuídas |
-| **Delta Lake** | Camada de storage Lakehouse |
-| **Unity Catalog** | Governança e controle de acesso |
-| **Python** | Scripts, automação, pipelines |
-| **SQL** | Consultas, views, modelagem analítica |
-
----
-
-## 📊 Progresso
-
-```
-Section 1 · Fundamentos               ░░░░░░░░░░  0/10
-Section 2 · Pipelines & Processamento ░░░░░░░░░░  0/20
-Section 3 · Spark & Distribuído       ░░░░░░░░░░  0/20
-Section 4 · Orquestração              ░░░░░░░░░░  0/10
-Section 5 · Lakehouse & Storage       ░░░░░░░░░░  0/10
-Section 6 · AI & ML Systems           ░░░░░░░░░░  0/20
-Section 7 · Governança & Escala       ░░░░░░░░░░  0/10
-
-Total ░░░░░░░░░░░░░░░░░░░░  0 / 100
-```
+Cada conceito tem seu próprio `.md` seguindo o mesmo formato
 
 ---
 
 ## 🔗 Referências
 
-- Roadmap original: **B V Sarath Chandra** — [LinkedIn](https://www.linkedin.com/in/bvsarathchandra/)
 - [Databricks Documentation](https://docs.databricks.com/)
-- [Delta Lake Documentation](https://docs.delta.io/)
-- [Apache Spark Documentation](https://spark.apache.org/docs/latest/)
