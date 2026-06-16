@@ -22,15 +22,15 @@ A ideia aqui não é acumular snippets soltos. É entender os sistemas por baixo
 
 ## 🗂️ Seções de estudo
 
-| Seção | Conceitos | Status |
-|-------|-----------|--------|
-| [01 · Fundamentos](./01-fundamentos/) | Data Modeling, OLTP vs OLAP, Star Schema, Snowflake Schema, Normalization, Denormalization, Data Warehouse, Data Lake, Lakehouse, Medallion | 🔲 |
-| [02 · Pipelines & Processamento](./02-pipelines-processamento/) | Batch, Stream, Micro-batch, Event-Driven, CDC, ETL vs ELT, Ingestion, Transformation, Partitioning, File Formats, Schema Evolution... | 🔲 |
-| [03 · Spark & Sistemas Distribuídos](./03-spark-distribuido/) | Parallelism, Fault Tolerance, Shuffle, Lazy Evaluation, DAG, Catalyst, Tungsten, Joins, Skew, Caching, Spill to Disk... | 🔲 |
-| [04 · Orquestração & Confiabilidade](./04-orquestracao-confiabilidade/) | Airflow, DAG Scheduling, Retry Logic, Backfill, SLA, Observability, Data Quality, Data Contracts, Lineage | 🔲 |
-| [05 · Lakehouse & Storage](./05-lakehouse-storage/) | Delta Lake, Iceberg, Hudi, ACID Lakes, Time Travel, Merge/Upserts, Incremental Loads, Compaction, Vacuum | 🔲 |
-| [06 · AI & ML Systems](./06-ai-ml/) | Feature Engineering, Feature Store, Training vs Inference, Model Drift, RAG, LLM Pipelines, Prompt Engineering, Agents, Tool Calling... | 🔲 |
-| [07 · Governança & Escala](./07-governanca-escala/) | Data Governance, Data Privacy, PII, RBAC, Encryption, Cost Optimization, FinOps, Architecture | 🔲 |
+| Seção | Conceitos |
+|-------|-----------|
+| [01 · Fundamentos](./01-fundamentos/) | Data Modeling, OLTP vs OLAP, Star Schema, Snowflake Schema, Normalization, Denormalization, Data Warehouse, Data Lake, Lakehouse, Medallion |
+| [02 · Pipelines & Processamento](./02-pipelines-processamento/) | Batch, Stream, Micro-batch, Event-Driven, CDC, ETL vs ELT, Ingestion, Transformation, Partitioning, File Formats, Schema Evolution... |
+| [03 · Spark & Sistemas Distribuídos](./03-spark-distribuido/) | Parallelism, Fault Tolerance, Shuffle, Lazy Evaluation, DAG, Catalyst, Tungsten, Joins, Skew, Caching, Spill to Disk... |
+| [04 · Orquestração & Confiabilidade](./04-orquestracao-confiabilidade/) | Airflow, DAG Scheduling, Retry Logic, Backfill, SLA, Observability, Data Quality, Data Contracts, Lineage |
+| [05 · Lakehouse & Storage](./05-lakehouse-storage/) | Delta Lake, Iceberg, Hudi, ACID Lakes, Time Travel, Merge/Upserts, Incremental Loads, Compaction, Vacuum |
+| [06 · AI & ML Systems](./06-ai-ml/) | Feature Engineering, Feature Store, Training vs Inference, Model Drift, RAG, LLM Pipelines, Prompt Engineering, Agents, Tool Calling... |
+| [07 · Governança & Escala](./07-governanca-escala/) | Data Governance, Data Privacy, PII, RBAC, Encryption, Cost Optimization, FinOps, Architecture |
 
 ---
 
