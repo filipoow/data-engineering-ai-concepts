@@ -2,7 +2,7 @@
 
 > *Don't learn tools. Learn how systems work.*
 
-Repositório pessoal para documentar minha jornada pelos **100 conceitos fundamentais de Data Engineering & AI** — do básico de modelagem até agentes e governança de dados em escala.
+Repositório pessoal para documentar minha jornada pelos **100 conceitos fundamentais de Data Engineering & AI** do básico de modelagem até agentes e governança de dados em escala.
 
 A ideia aqui não é acumular snippets soltos. É entender os sistemas por baixo: por que as coisas funcionam do jeito que funcionam, quando aplicar cada conceito e quais são os trade-offs reais.
 
@@ -12,10 +12,10 @@ A ideia aqui não é acumular snippets soltos. É entender os sistemas por baixo
 
 - Fundamentos sólidos de modelagem, armazenamento e arquitetura de dados
 - Como pipelines de dados funcionam de ponta a ponta (batch, stream, CDC)
-- Processamento distribuído com Spark — entender o motor, não só a sintaxe
+- Processamento distribuído com Spark, entender o motor, não só a sintaxe
 - Orquestração, qualidade e contratos de dados em produção
 - Arquitetura Lakehouse (Delta Lake, Iceberg, Hudi)
-- Sistemas de ML/AI — de feature engineering até agentes e RAG
+- Sistemas de ML/AI de feature engineering até agentes e RAG
 - Governança, privacidade e operação de dados em escala
 
 ---
